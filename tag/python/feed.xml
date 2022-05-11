@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://classe55.github.io/tag/python/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://classe55.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-05-11T16:43:49+09:00</updated>
+  <id>https://classe55.github.io/tag/python/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">IT / Performance Marketing | </title>
+  
+
+  
+    <subtitle>Front-End/ML/Tableau</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">python (2)</title>
+      <link href="https://classe55.github.io/python-02" rel="alternate" type="text/html" title="python (2)" />
+      <published>2022-05-10T14:55:00+09:00</published>
+      <updated>2022-05-10T14:55:00+09:00</updated>
+      <id>https://classe55.github.io/python-02</id>
+      <content type="html" xml:base="https://classe55.github.io/python-02">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt; Python 프로젝트와 결과물로 구성되어있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./first-post&quot;&gt; python (1) &lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-02&quot;&gt; python (2) &lt;/a&gt;&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;p&gt;이 글은 본 블로그의 두번째 글입니다. 
+dddd&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>juhyeon</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">Python 프로젝트와 결과물로 구성되어있습니다. python (1) python (2)</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">python (1)</title>
+      <link href="https://classe55.github.io/first-post" rel="alternate" type="text/html" title="python (1)" />
+      <published>2022-05-10T14:55:00+09:00</published>
+      <updated>2022-05-10T14:55:00+09:00</updated>
+      <id>https://classe55.github.io/first-post</id>
+      <content type="html" xml:base="https://classe55.github.io/first-post">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt; Python 프로젝트와 결과물로 구성되어있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./first-post&quot;&gt; python (1) &lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-02&quot;&gt; python (2) &lt;/a&gt;&lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;p&gt;이 글은 본 블로그의 첫 번째 글입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>juhyeon</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">Python 프로젝트와 결과물로 구성되어있습니다. python (1) python (2) 이 글은 본 블로그의 첫 번째 글입니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

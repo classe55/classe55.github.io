@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="https://classe55.github.io/tag/python/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://classe55.github.io/" rel="alternate" type="text/html" />
-  <updated>2022-05-11T16:52:27+09:00</updated>
+  <updated>2022-05-11T17:08:44+09:00</updated>
   <id>https://classe55.github.io/tag/python/feed.xml</id>
 
   
@@ -44,8 +44,7 @@
 
 &lt;/ul&gt;
 
-&lt;p&gt;이 글은 본 블로그의 두번째 글입니다. 
-dddd&lt;/p&gt;</content>
+&lt;p&gt;이 글은 본 블로그의 두번째 글입니다.&lt;/p&gt;</content>
 
       
       
@@ -85,7 +84,9 @@ dddd&lt;/p&gt;</content>
     &lt;li&gt;&lt;a href=&quot;./python-02&quot;&gt; python (2) &lt;/a&gt;&lt;/li&gt;
 
 &lt;/ul&gt;
-&lt;p&gt;이 글은 본 블로그의 첫 번째 글입니다.&lt;/p&gt;</content>
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Hello World'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
 
       
       
@@ -106,7 +107,7 @@ dddd&lt;/p&gt;</content>
       
 
       
-        <summary type="html">Python 프로젝트와 결과물로 구성되어있습니다. python (1) python (2) 이 글은 본 블로그의 첫 번째 글입니다.</summary>
+        <summary type="html">Python 프로젝트와 결과물로 구성되어있습니다. python (1) python (2)</summary>
       
 
       
